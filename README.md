@@ -48,3 +48,4 @@ program either creates a new file, writes new data, appends data, or reads exist
  This File Management Tool is an effective way to understand file operations in C++. It supports
  multiple formats and provides a user-friendly CLI for interacting with files.
  This type of tool is ideal for beginners who want to practice real-world C++ file handling tasks.
+<img width="1565" height="989" alt="Image" src="https://github.com/user-attachments/assets/986c0111-5e31-4730-8744-6631d91273a9" />
