@@ -1,8 +1,19 @@
+# INTERACTIVE-QUIZ-APPLICATION-
 # File_Handing-
- This C++ project demonstrates a simple yet powerful File Management Tool using basic file  handling techniques. 
+*COMPANY*: CODTECH IT SOLUTIONS
+
+*NAME*: MRUNAL APKURE
+
+*INTERN ID*: CT04DH2719
+
+*DOMAIN*: C++ PROGRAMMING
+
+*DURATION*: 4 WEEKS
+
+*MENTOR*:  NEELA SANTOSH KUMAR
 
 
-          C++ File Management Tool - Project Documentation
+C++ File Management Tool - Project Documentation
  1. Introduction
  This C++ project demonstrates a simple yet powerful File Management Tool using basic file
  handling techniques. 
